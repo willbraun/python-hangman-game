@@ -1,6 +1,6 @@
 # Overview
 
-Play Hangman in your terminal. You can guess letters in a randomly chosen word. If you are incorrect 6 times, you lose. If you miss letters, you will see the man drawn in ASCII art. 
+Play Hangman in your terminal. You can guess letters in a randomly chosen word. If you can guess the word with less than six incorrect guesses, you win! If you guess incorrectly, you will see the man drawn in ASCII art. 
 
 ## How to play
 
